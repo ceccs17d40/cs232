@@ -1,0 +1,156 @@
+Script started on Wednesday 13 March 2019 12:27:10 AM IST
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ ls
+[0m[01;34mDesktop[0m      et                    [01;34mMusic[0m     [01;34mreset-settings[0m     typescript
+[01;34mdjangogirls[0m  examples.desktop      [01;34mmyvenv[0m    [01;36msqueak[0m             [01;34mVCD_Copy[0m
+[01;34mDocuments[0m    [01;32mitsuserguide.desktop[0m  [01;34mPictures[0m  [01;34mTemplates[0m          [01;34mVideos[0m
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ ls -lk
+total 76
+drwxr-xr-x 3 ubuntu ubuntu 4096 Jul 24  2018 [0m[01;34mDesktop[0m
+drwxrwxr-x 6 ubuntu ubuntu 4096 Jul  6  2018 [01;34mdjangogirls[0m
+drwxr-xr-x 3 ubuntu ubuntu 4096 Nov 30 19:03 [01;34mDocuments[0m
+-rw-r--r-- 1 ubuntu ubuntu 2288 Jul 23  2018 et
+-rw-r--r-- 1 ubuntu ubuntu 8980 Jun  5  2018 examples.desktop
+-rwxrwxr-x 1 ubuntu ubuntu  269 Jun  5  2018 [01;32mitsuserguide.desktop[0m
+drwxr-xr-x 2 ubuntu ubuntu 4096 Jun  5  2018 [01;34mMusic[0m
+drwxrwxr-x 5 ubuntu ubuntu 4096 Jul  3  2018 [01;34mmyvenv[0m
+drwxr-xr-x 3 ubuntu ubuntu 4096 Aug 28  2018 [01;34mPictures[0m
+drwxr-xr-x 2 ubuntu ubuntu 4096 Jun  5  2018 [01;34mPublic[0m
+drwxrwxr-x 2 ubuntu ubuntu 4096 Jun  5  2018 [01;34mreset-settings[0m
+lrwxrwxrwx 1 ubuntu ubuntu   20 Jul 27  2018 [01;36msqueak[0m -> [01;34m/home/ubuntu/.squeak[0m
+drwxr-xr-x 2 ubuntu ubuntu 4096 Jun  5  2018 [01;34mTemplates[0m
+lrwxrwxrwx 1 ubuntu ubuntu   16 Jun  5  2018 [01;36mTuxPaint-Pictures[0m -> [01;34m.tuxpaint/saved/[0m
+-rw-rw-r-- 1 ubuntu ubuntu 8192 Feb 28 19:22 typescript
+drwxrwxr-x 2 ubuntu ubuntu 4096 Jun  5  2018 [01;34mVCD_Copy[0m
+drwxr-xr-x 3 ubuntu ubuntu 4096 Jan  8 00:28 [01;34mVideos[0m
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ ls -l
+total 76
+drwxr-xr-x 3 ubuntu ubuntu 4096 Jul 24  2018 [0m[01;34mDesktop[0m
+drwxrwxr-x 6 ubuntu ubuntu 4096 Jul  6  2018 [01;34mdjangogirls[0m
+drwxr-xr-x 3 ubuntu ubuntu 4096 Nov 30 19:03 [01;34mDocuments[0m
+-rw-r--r-- 1 ubuntu ubuntu 2288 Jul 23  2018 et
+-rw-r--r-- 1 ubuntu ubuntu 8980 Jun  5  2018 examples.desktop
+-rwxrwxr-x 1 ubuntu ubuntu  269 Jun  5  2018 [01;32mitsuserguide.desktop[0m
+drwxr-xr-x 2 ubuntu ubuntu 4096 Jun  5  2018 [01;34mMusic[0m
+drwxrwxr-x 5 ubuntu ubuntu 4096 Jul  3  2018 [01;34mmyvenv[0m
+drwxr-xr-x 3 ubuntu ubuntu 4096 Aug 28  2018 [01;34mPictures[0m
+drwxr-xr-x 2 ubuntu ubuntu 4096 Jun  5  2018 [01;34mPublic[0m
+drwxrwxr-x 2 ubuntu ubuntu 4096 Jun  5  2018 [01;34mreset-settings[0m
+lrwxrwxrwx 1 ubuntu ubuntu   20 Jul 27  2018 [01;36msqueak[0m -> [01;34m/home/ubuntu/.squeak[0m
+drwxr-xr-x 2 ubuntu ubuntu 4096 Jun  5  2018 [01;34mTemplates[0m
+lrwxrwxrwx 1 ubuntu ubuntu   16 Jun  5  2018 [01;36mTuxPaint-Pictures[0m -> [01;34m.tuxpaint/saved/[0m
+-rw-rw-r-- 1 ubuntu ubuntu 8192 Feb 28 19:22 typescript
+drwxrwxr-x 2 ubuntu ubuntu 4096 Jun  5  2018 [01;34mVCD_Copy[0m
+drwxr-xr-x 3 ubuntu ubuntu 4096 Jan  8 00:28 [01;34mVideos[0m
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ ls -ltr
+total 76
+lrwxrwxrwx 1 ubuntu ubuntu   16 Jun  5  2018 [0m[01;36mTuxPaint-Pictures[0m -> [01;34m.tuxpaint/saved/[0m
+drwxrwxr-x 2 ubuntu ubuntu 4096 Jun  5  2018 [01;34mreset-settings[0m
+-rwxrwxr-x 1 ubuntu ubuntu  269 Jun  5  2018 [01;32mitsuserguide.desktop[0m
+drwxrwxr-x 2 ubuntu ubuntu 4096 Jun  5  2018 [01;34mVCD_Copy[0m
+-rw-r--r-- 1 ubuntu ubuntu 8980 Jun  5  2018 examples.desktop
+drwxr-xr-x 2 ubuntu ubuntu 4096 Jun  5  2018 [01;34mTemplates[0m
+drwxr-xr-x 2 ubuntu ubuntu 4096 Jun  5  2018 [01;34mPublic[0m
+drwxr-xr-x 2 ubuntu ubuntu 4096 Jun  5  2018 [01;34mMusic[0m
+drwxrwxr-x 5 ubuntu ubuntu 4096 Jul  3  2018 [01;34mmyvenv[0m
+drwxrwxr-x 6 ubuntu ubuntu 4096 Jul  6  2018 [01;34mdjangogirls[0m
+-rw-r--r-- 1 ubuntu ubuntu 2288 Jul 23  2018 et
+drwxr-xr-x 3 ubuntu ubuntu 4096 Jul 24  2018 [01;34mDesktop[0m
+lrwxrwxrwx 1 ubuntu ubuntu   20 Jul 27  2018 [01;36msqueak[0m -> [01;34m/home/ubuntu/.squeak[0m
+drwxr-xr-x 3 ubuntu ubuntu 4096 Aug 28  2018 [01;34mPictures[0m
+drwxr-xr-x 3 ubuntu ubuntu 4096 Nov 30 19:03 [01;34mDocuments[0m
+drwxr-xr-x 3 ubuntu ubuntu 4096 Jan  8 00:28 [01;34mVideos[0m
+-rw-rw-r-- 1 ubuntu ubuntu 8192 Feb 28 19:22 typescript
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ alias ll='ls-l'
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ ll
+ls-l: command not found
+u]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ unalias ll
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ ll
+ll: command not found
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ llunalias llll[Kalias ll='ls-l'[1Pll='ls-l' ll='ls-l'[C l='ls-l'[1Pl='ls-l'[C ='ls-l'[C 'ls-l'
+bash: alias: ll: not found
+bash: alias: =: not found
+bash: alias: ls-l: not found
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ alias ll = 'ls-l'[1P'ls-l'[1P='ls-l'[C[C[C[C[C[C[C
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ ll
+ls-l: command not found
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ llalias ll='ls-l' l'[1@ [C[C[1Pl'
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ ll
+total 80
+drwxr-xr-x 3 ubuntu ubuntu 4096 Jul 24  2018 [0m[01;34mDesktop[0m
+drwxrwxr-x 6 ubuntu ubuntu 4096 Jul  6  2018 [01;34mdjangogirls[0m
+drwxr-xr-x 3 ubuntu ubuntu 4096 Nov 30 19:03 [01;34mDocuments[0m
+-rw-r--r-- 1 ubuntu ubuntu 2288 Jul 23  2018 et
+-rw-r--r-- 1 ubuntu ubuntu 8980 Jun  5  2018 examples.desktop
+-rwxrwxr-x 1 ubuntu ubuntu  269 Jun  5  2018 [01;32mitsuserguide.desktop[0m
+drwxr-xr-x 2 ubuntu ubuntu 4096 Jun  5  2018 [01;34mMusic[0m
+drwxrwxr-x 5 ubuntu ubuntu 4096 Jul  3  2018 [01;34mmyvenv[0m
+drwxr-xr-x 3 ubuntu ubuntu 4096 Aug 28  2018 [01;34mPictures[0m
+drwxr-xr-x 2 ubuntu ubuntu 4096 Jun  5  2018 [01;34mPublic[0m
+drwxrwxr-x 2 ubuntu ubuntu 4096 Jun  5  2018 [01;34mreset-settings[0m
+lrwxrwxrwx 1 ubuntu ubuntu   20 Jul 27  2018 [01;36msqueak[0m -> [01;34m/home/ubuntu/.squeak[0m
+drwxr-xr-x 2 ubuntu ubuntu 4096 Jun  5  2018 [01;34mTemplates[0m
+lrwxrwxrwx 1 ubuntu ubuntu   16 Jun  5  2018 [01;36mTuxPaint-Pictures[0m -> [01;34m.tuxpaint/saved/[0m
+-rw-rw-r-- 1 ubuntu ubuntu 8192 Feb 28 19:22 typescript
+drwxrwxr-x 2 ubuntu ubuntu 4096 Jun  5  2018 [01;34mVCD_Copy[0m
+drwxr-xr-x 3 ubuntu ubuntu 4096 Jan  8 00:28 [01;34mVideos[0m
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ unalias ll
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ ll
+ll: command not found
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ pwd
+/home/ubuntu
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ cat > aa.t[K[K[K.txt
+cat   new filw
+^C
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ cat aa.txt > bb.txt
+cat: aa.txt: No such file or directory
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ cat aa.txt > bb.txt[1P[C[C[C[C[C[C[C[C[C[1P.txt
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ grep "new" a.txt 
+[01;31m[Knew[m[K filw
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ cd Desktop/
+]0;ubuntu@ubuntu: ~/Desktopubuntu@ubuntu:~/Desktop$ cp[K[Kls
+[0m[01;32mfirefox.desktop[0m  untitled.py  [01;34mworkshopApp[0m
+]0;ubuntu@ubuntu: ~/Desktopubuntu@ubuntu:~/Desktop$ cd #
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ ls
+a.txt        [0m[01;34mDownloads[0m             [01;34mmyvenv[0m          [01;36mTuxPaint-Pictures[0m
+bb.txt       et                    [01;34mPictures[0m        typescript
+b.txt        examples.desktop      [01;34mPublic[0m          [01;34mVCD_Copy[0m
+[01;34mDesktop[0m      [01;32mitsuserguide.desktop[0m  [01;34mreset-settings[0m  [01;34mVideos[0m
+[01;34mDocuments[0m    [01;34mMusic[0m                 [01;34mTemplates[0m
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ rm bb.txt
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ ls
+a.txt        [0m[01;34mDownloads[0m             [01;34mMusic[0m           [01;36msqueak[0m             [01;34mVideos[0m
+b.txt        et                    [01;34mmyvenv[0m          [01;34mTemplates[0m
+[01;34mDesktop[0m      examples.desktop      [01;34mPictures[0m        [01;36mTuxPaint-Pictures[0m
+[01;34mdjangogirls[0m  [01;32mitsuserguide.desktop[0m  [01;34mPublic[0m          typescript
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ mkdir foss
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ ls
+a.txt        et                    [0m[01;34mmyvenv[0m          [01;36mTuxPaint-Pictures[0m
+b.txt        examples.desktop      [01;34mPictures[0m        typescript
+[01;34mDesktop[0m      [01;34mfoss[0m                  [01;34mPublic[0m          [01;34mVCD_Copy[0m
+[01;34mdjangogirls[0m  [01;32mitsuserguide.desktop[0m  [01;34mreset-settings[0m  [01;34mVideos[0m
+[01;34mDownloads[0m    [01;34mMusic[0m                 [01;34mTemplates[0m
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ rmdir foss
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ ls
+a.txt        [0m[01;34mDownloads[0m             [01;34mMusic[0m           [01;36msqueak[0m             [01;34mVideos[0m
+b.txt        et                    [01;34mmyvenv[0m          [01;34mTemplates[0m
+[01;34mDesktop[0m      examples.desktop      [01;34mPictures[0m        [01;36mTuxPaint-Pictures[0m
+[01;34mdjangogirls[0m  [01;32mitsuserguide.desktop[0m  [01;34mPublic[0m          typescript
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ mkdir foss
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ rm -r foss
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ ls
+a.txt        [0m[01;34mDownloads[0m             [01;34mMusic[0m           [01;36msqueak[0m             [01;34mVideos[0m
+b.txt        et                    [01;34mmyvenv[0m          [01;34mTemplates[0m
+[01;34mDesktop[0m      examples.desktop      [01;34mPictures[0m        [01;36mTuxPaint-Pictures[0m
+[01;34mdjangogirls[0m  [01;32mitsuserguide.desktop[0m  [01;34mPublic[0m          typescript
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ cat > c [K.txt
+new d file c
+^C
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ cat > c.txt[1P.txts.txt[1P.txtd.txt
+new filed
+^C
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ join c.txt d.txt 
+new file c filed
+]0;ubuntu@ubuntu: ~ubuntu@ubuntu:~$ exit
+exit
+
+Script done on Monday 13 March 2019 12:35:16 AM IST
